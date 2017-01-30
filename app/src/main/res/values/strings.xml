@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Secret Knock</string>
+    <string name="recording">RECORDING</string>
+    <string name="message_hidden">Message hidden!</string>
+    <string name="initial_instruction">Enter message to hide below.  Then press the button above to
+        record your secret knock and lock away your message.</string>
+    <string name="record_instruction">Tap your secret knock in the box below to lock away
+        your message.</string>
+    <string name="unlock_instruction">Tap your secret knock in the box below to display your
+        hidden message.</string>
+    <string name="pattern_invalid">The secret knock must have at least three knocks. Please
+        try again.</string>
+    <string name="pattern_incorrect">You shall not pass!</string>
+</resources>
